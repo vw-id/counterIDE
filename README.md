@@ -10,7 +10,7 @@ VSP20260128-1500.7z
 ### Package version
 v1.5.0
 
-### Build with
+### Built with
 VB.NET
 
 ### Author
