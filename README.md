@@ -5,10 +5,10 @@ CounterIDE Package
 ESP8266 Custom Uploader
 
 ### Package name
-VSP20260128-1500.7z
+VSP20260128-2000.7z
 
 ### Package version
-v1.5.0
+v2.0.0
 
 ### Built with
 VB.NET
